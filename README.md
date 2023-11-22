@@ -51,7 +51,7 @@ c.execute(a,data)
 con.commit().
 print'"\n\n\n\nBook issued successfully to: ",n)
 
-wait = input("\n\n\nPress enter to continue.... |n\n\n\n\n\n')
+wait = input("\n\n\nPress enter to continue.... \n\n\n\n\n\n')
 bookup(co,-1)
 main()
 
@@ -83,7 +83,7 @@ d=(t,co)
 c.execute(sql,d)
 con.commit()
 
-wait = input/"In\n\nPress enter to continue.....|n\n\n\n\n\n')
+wait = input/"In\n\nPress enter to continue.....\n\n\n\n\n\n')
 main()
 
 def dbook):
